@@ -14,7 +14,9 @@
  ==== JOGADORES QUE FINALIZOU O GAME ====
 
  1°: Nash com 176.9m
+
  2º: L.Maverick com 169.5m
+ 
  3°: Caio com 167.1m
 
 
