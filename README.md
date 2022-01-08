@@ -10,3 +10,12 @@
  O jogo foi criado pela ferramente Construct 2, os códigos desse game foi compilado pelo mesmo.
 
  Joguem e se quiserem podem usar como base aos estudos, até mais!!!
+
+ ==== JOGADORES QUE FINALIZOU O GAME ====
+
+ 1°: Nash com 176.9m
+ 2º: L.Maverick com 169.5m
+ 3°: Caio com 167.1m
+
+
+ Quer aparecer aqui também? tente finalizar o jogo e mande o print quando finalizar com a contagem de metros visivel!
